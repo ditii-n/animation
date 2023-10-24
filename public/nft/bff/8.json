@@ -1,0 +1,41 @@
+{
+  "name": "Lara",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #8 Lara",
+  "tokenId": 8,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Clothing Decoration",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Low Ponytail"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stud Hoops"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/8.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/8.jpg"
+}

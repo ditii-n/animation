@@ -1,0 +1,41 @@
+{
+  "name": "Christina",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #4 Christina",
+  "tokenId": 4,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothing Decoration",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Studs"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/4.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/4.jpg"
+}

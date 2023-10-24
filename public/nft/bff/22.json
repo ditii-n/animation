@@ -1,0 +1,41 @@
+{
+  "name": "Ruth",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #22 Ruth",
+  "tokenId": 22,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearl Studs"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Pearls"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/22.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/22.jpg"
+}

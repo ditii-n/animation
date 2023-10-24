@@ -1,0 +1,37 @@
+{
+  "name": "Penelope",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #7 Penelope",
+  "tokenId": 7,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "High Ponytail"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hoops"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/7.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/7.jpg"
+}

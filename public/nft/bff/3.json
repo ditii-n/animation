@@ -1,0 +1,41 @@
+{
+  "name": "Lisa",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #3 Lisa",
+  "tokenId": 3,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothing Decoration",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Side Bun"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hoops"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/3.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/3.jpg"
+}

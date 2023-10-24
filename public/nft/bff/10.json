@@ -1,0 +1,41 @@
+{
+  "name": "Gabrielle",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #10 Gabrielle",
+  "tokenId": 10,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Ombre"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "High Ponytail"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangle Studs"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Pearl Pendant"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/10.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/10.jpg"
+}

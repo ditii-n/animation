@@ -1,0 +1,37 @@
+{
+  "name": "Rhea",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #19 Rhea",
+  "tokenId": 19,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangle Studs"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/19.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/19.jpg"
+}

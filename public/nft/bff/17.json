@@ -1,0 +1,41 @@
+{
+  "name": "Laci",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #17 Laci",
+  "tokenId": 17,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Ombre"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Square"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Studs"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Pearl Pendant"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/17.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/17.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Luna",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #13 Luna",
+  "tokenId": 13,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Ombre"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Curly Side Bun"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hoops"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Star"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/13.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/13.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Tessa",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #16 Tessa",
+  "tokenId": 16,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Low Ponytail"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangle Studs"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/16.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/16.jpg"
+}

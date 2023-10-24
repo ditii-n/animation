@@ -1,0 +1,41 @@
+{
+  "name": "Regina",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #20 Regina",
+  "tokenId": 20,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Clothing Decoration",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Curly"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hoops"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/20.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/20.jpg"
+}

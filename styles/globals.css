@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Avenir, Arial, Helvetica, sans-serif;
+  }
+
+  body {
+    @apply bg-black text-white;
+  }
+  .slide-in {
+    /* transform: translateX(2.5rem); Start from a hidden state */
+    opacity: 1; /* Fully visible */
+    transition-duration: 10000ms;
+    transition-timing-function: cubic-bezier(0, 0.01, 0.58, 1);
+    /* Stransition: transform 0.5s ease, opacity 0.5s ease; Adjust the duration and easing function */
+    animation: slideme .7s ease-in-out;
+    
+  }
+  .slide-out {
+    /* transform: translateX(2.5rem); Start from a hidden state */
+    opacity: 1; /* Fully visible */
+    transition-duration: 10000ms;
+    transition-timing-function: cubic-bezier(0, 0.01, 0.58, 1);
+    /* Stransition: transform 0.5s ease, opacity 0.5s ease; Adjust the duration and easing function */
+    animation: slidemeout .7s ease-in-out;
+    
+  }
+  .slide-out {
+    /* transform: translateX(2.5rem); Start from a hidden state */
+    opacity: 1; /* Fully visible */
+    transition-duration: 10000ms;
+    transition-timing-function: cubic-bezier(0, 0.01, 0.58, 1);
+    /* Stransition: transform 0.5s ease, opacity 0.5s ease; Adjust the duration and easing function */
+    animation: slidemeout .7s ease-in-out;
+    
+  }
+  .slide-up {
+    /* transform: translateX(2.5rem); Start from a hidden state */
+    opacity: 1; /* Fully visible */
+    transition-duration: 10000ms;
+    transition-timing-function: cubic-bezier(0, 0.01, 0.58, 1);
+    /* Stransition: transform 0.5s ease, opacity 0.5s ease; Adjust the duration and easing function */
+    animation: slidemeup .7s ease-in-out;
+    
+  }
+  
+  @keyframes slideme{
+    0%{
+      transform: translateX(-500px);
+    }
+    100%{
+      transform: skew(0deg);
+    }
+  }
+  @keyframes slidemeout{
+    0%{
+      transform: translateX(500px);
+    }
+    100%{
+      transform: skew(0deg);
+    }
+  }
+  @keyframes slidemeup{
+    0%{
+      transform: translateY(300px);
+    }
+    100%{
+      transform: skew(0deg);
+    }
+  }
+}

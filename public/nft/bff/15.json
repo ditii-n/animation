@@ -1,0 +1,37 @@
+{
+  "name": "Grace",
+  "created_by": "md.apostrophe",
+  "creator": "md.apostrophe",
+  "artist": "md.apostrophe",
+  "team": "TMT Labs",
+  "description": "Bubble Friends Forever #15 Grace",
+  "tokenId": 15,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Bubblies"
+    },
+    {
+      "trait_type": "Person",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Pattern"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Curly Bun"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Hoops"
+    }
+  ],
+  "image": "https://tmtlabs.xyz/nft/bff/art/15.jpg",
+  "image_url": "https://tmtlabs.xyz/nft/bff/art/15.jpg"
+}
